@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be6b7fdb-ca33-4931-be0c-15312b683a13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    <list default="true" id="be6b7fdb-ca33-4931-be0c-15312b683a13" name="Changes" comment="sg">
+      <change afterPath="$PROJECT_DIR$/src/Task4/newclass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,8 +104,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680625950414</updated>
-      <workItem from="1680625951709" duration="1476000" />
+      <workItem from="1680625951709" duration="1641000" />
     </task>
+    <task id="LOCAL-00001" summary="sg">
+      <created>1680627476273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680627476273</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,5 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="sg" />
+    <option name="LAST_COMMIT_MESSAGE" value="sg" />
   </component>
 </project>
